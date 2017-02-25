@@ -1,0 +1,6 @@
+vehicles/vehicles/GTI_Far
+vehicles/vehicles/GTI_Left
+vehicles/vehicles/GTI_MiddleClose
+vehicles/vehicles/KITTI_extracted
+vehicles/vehicles/GTI_Right
+vehicles/__MACOSX/vehicles
